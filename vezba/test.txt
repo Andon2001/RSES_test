@@ -1,1 +1,3 @@
-hbjbbbbbnuiuinui
+void main(){
+//radi nesto
+}
