@@ -1,3 +1,5 @@
 void main(){
 //radi nesto
+//naredba1
+//naredba2
 }
