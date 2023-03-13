@@ -3,3 +3,6 @@ void main(){
 //naredba1
 //naredba2
 }
+void init(){
+//asdasads
+}
