@@ -1,5 +1,7 @@
 void main(){
 //radi nesto
-//naredba1
-//naredba2
+int x=f;
+}
+int32_t f(){
+return 5+2;
 }
